@@ -17,7 +17,8 @@ HTML, CSS, Bootstrap,  ReactJS
 
 ## Login
 <img width="874" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/e40285ae-364b-4ab4-afb5-3c30842ee08f">
-### Password or email incorrect
+
+## Password or email incorrect
 <img width="786" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/a90073a8-1ed3-41e2-9654-2004a1569fae">
 
 
@@ -29,11 +30,20 @@ HTML, CSS, Bootstrap,  ReactJS
 ## INVITATION 
 <img width="960" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/e95bdc83-275a-40de-85b2-5f6c8830e2a2">
 <img width="955" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/1fbebb9e-5c4b-4d7b-b838-439e941b195d">
+
 ## Back to Total Invitations
 <img width="419" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/49141de3-072a-4ad7-80af-6e683c6787da">
 <img width="949" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/8e116929-4a28-42ee-bf9b-4b7339868bf3">
 
 ## PRINT INVITATION
-By clicking at this button , it redirect you to another page
+By clicking at this button , it redirect you to another page 
 <img width="555" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/95dda3b3-7b22-4804-b0ba-6e7b37672cef">
 <img width="957" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/0f72e1ec-494a-469d-8da6-686a94800bce">
+
+## PROFILE INFORMATION
+<img width="552" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/44a5a6a0-a072-4123-bc44-580c341c7537">
+<img width="960" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/338c18eb-e9e9-44c4-b179-92defcf04983">
+<img width="957" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/860d5dd9-6a0a-4a31-a7a6-a6389b1dbd4b">
+
+## UPDATE PROFILE
+<img width="957" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/19113f03-d442-4f77-b8fe-1184a2f59ec1">
