@@ -10,7 +10,7 @@ Class Member List with Online/Offline Status: In addition to exam management and
 
 User-Friendly Interface: The user interface is intuitive and user-friendly, making it easy for students to access and manage their exam-related information.
 
-In essence, your project simplifies and centralizes the exam management process for students, making it easier for them to stay informed and organized when it comes to their exams
+In essence, this project simplifies and centralizes the exam management process for students, making it easier for them to stay informed and organized when it comes to their exams
 
 ## Technologies Used
 HTML, CSS, Bootstrap,  ReactJS
