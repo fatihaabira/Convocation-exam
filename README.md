@@ -24,16 +24,16 @@ HTML, CSS, Bootstrap,  ReactJS
 ## Home page
 <img width="960" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/a0485a88-60ae-485c-bba3-f6fc87347774">
 <img width="960" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/03cb8968-cfa7-4bff-907c-b1a3ec536b25">
-<img width="945" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/ec11ba4a-7f7b-4849-ac37-38cb0970a3dd">
+<img width="940" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/0a2e7689-d406-4be2-92db-ae74fc0e4cef">
 
 ## INVITATION 
-<img width="951" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/f2c32152-c33b-44a5-b3e8-82ae7de67797">
-<img width="956" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/6ef40ef9-89d0-4a7f-8787-c17af3d27b9c">
-<img width="187" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/ff4f92f8-e675-4032-861b-2ba0f1d2ae36">
-<img width="958" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/e738a682-db19-4f31-a13d-b6fd549b1c73">
-
+<img width="960" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/e95bdc83-275a-40de-85b2-5f6c8830e2a2">
+<img width="955" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/1fbebb9e-5c4b-4d7b-b838-439e941b195d">
+## Back to Total Invitations
+<img width="419" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/49141de3-072a-4ad7-80af-6e683c6787da">
+<img width="949" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/8e116929-4a28-42ee-bf9b-4b7339868bf3">
 
 ## PRINT INVITATION
 By clicking at this button , it redirect you to another page
-<img width="330" alt="image" src="https://github.com/fatihaabira/Student-Assessment-Organizer/assets/86306553/3f38ea89-d808-4055-a675-9cf5fa265c23">
-<img width="948" alt="image" src="https://github.com/fatihaabira/Student-Assessment-Organizer/assets/86306553/3cdccf0f-31bc-4d4b-9b9b-62b6e1084824">
+<img width="555" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/95dda3b3-7b22-4804-b0ba-6e7b37672cef">
+<img width="957" alt="image" src="https://github.com/fatihaabira/Convocation-exam/assets/86306553/0f72e1ec-494a-469d-8da6-686a94800bce">
